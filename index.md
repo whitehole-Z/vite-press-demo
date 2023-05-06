@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "AI训练平台"
+  text: "AI训练平台"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /docs/产品简介
 
 features:
   - title: Feature A
